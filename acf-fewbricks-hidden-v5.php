@@ -134,10 +134,6 @@ class acf_field_fewbricks_hidden extends acf_field
   function render_field($field)
   {
     // CSS to hide the field and its wrapper
-
-    echo 'apa';
-    var_dump($field['value']);
-
     ?>
     <style
         type="text/css">.field_key-<?php echo $field['key']; ?>, .acf-<?php echo str_replace('_', '-', $field['key']); ?>, .acf-field-<?php echo str_replace('_', '-', $field['key']); ?> {

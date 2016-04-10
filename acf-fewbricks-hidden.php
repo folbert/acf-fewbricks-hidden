@@ -4,7 +4,7 @@
 Plugin Name: Advanced Custom Fields: Hidden Field for Fewbricks.
 Plugin URI: http://folbert.com
 Description: A hidden field for Advanced Custom Fields. Modified for Fewbricks.
-Version: 1.5.1
+Version: 1.0
 Author: folbert
 Author URI: http://folbert.com
 License: GPLv2 or later
